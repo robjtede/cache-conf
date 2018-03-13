@@ -2,10 +2,7 @@
 const path = require('path');
 const Conf = require('conf');
 
-const parentDir = path.dirname(module.parent.filename);
-
 class CacheConf extends Conf {
-
 	constructor(options) {
 		options = Object.assign({
 			projectName: options.name
