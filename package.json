@@ -1,6 +1,6 @@
 {
   "name": "@robjtede/cache-conf",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "Simple cache config handling for your app or module",
   "license": "MIT",
   "repository": "robjtede/cache-conf",
